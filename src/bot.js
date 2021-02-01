@@ -12,6 +12,7 @@ client.registry
 	.registerGroups([
 		["info", "Information about the bot."],
 		["urls", "Shorten or expand urls with Chilp.it"],
+		["images", "Image manipulation and write text on images."],
 	])
 	.registerDefaultGroups()
 	.registerDefaultCommands()
