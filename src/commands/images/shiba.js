@@ -6,6 +6,7 @@ class ShibaCommand extends Command {
 		super(client, {
 			name: "shiba",
 			group: "images",
+			aliases: ["inu"],
 			memberName: "shiba",
 			description: "Returns random images of Shiba Inu dogs.",
 			args: [
