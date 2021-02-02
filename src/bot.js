@@ -13,6 +13,7 @@ client.registry
 		["info", "Information about the bot."],
 		["urls", "Shorten or expand urls with Chilp.it."],
 		["images", "Image generation."],
+		["fun", "Fun commands for when you are bored."],
 	])
 	.registerDefaultGroups()
 	.registerDefaultCommands()
