@@ -6,7 +6,7 @@ class DogCommand extends Command {
 		super(client, {
 			name: "dog",
 			group: "images",
-			aliases: "woof",
+			aliases: ["woof"],
 			memberName: "dog",
 			description: "Returns a random image of a dog.",
 		});
